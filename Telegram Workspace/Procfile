@@ -1,0 +1,1 @@
+web: python3 telebot_1.py
