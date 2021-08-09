@@ -66,7 +66,7 @@ python-binance==0.7.1
 python-dateutil==2.8.0
 python-telegram-bot==12.6.1
 pytz==2018.9
-pywin32==227
+pywin32==301
 queuelib==1.5.0
 regex==2019.2.21
 requests==2.21.0
